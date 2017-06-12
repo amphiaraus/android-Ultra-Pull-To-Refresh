@@ -13,7 +13,7 @@ bin/
 gen/
 *target/
 *build/
-.gradle/
+.gradle
 .idea/
 gen-external-apklibs/
 
